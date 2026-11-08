@@ -1,14 +1,16 @@
-# CISC7005 Computer Science Seminar — Student Talk Schedule
+# CISC7005 Computer Science Seminar — Tentative Talk Schedule
 
 **Fall 2026 · University of Macau · Instructor: Zhendong Zheng**
 
-|            |                                                      |
-| ---------- | ---------------------------------------------------- |
-| Sessions   | 9 Nov, 16 Nov, 23 Nov, 30 Nov 2026 (Mondays)         |
-| Time       | 14:00 to 17:00, ends early when the session finishes |
-| Room       | Yuxin Tower 1015 (Hengqin Campus)                    |
-| Groups     | 29 groups, 37 students                               |
-| Slides due | PDF, at least 24 hours before your slot              |
+|              |                                                          |
+| ------------ | -------------------------------------------------------- |
+| Sessions     | 9 Nov, 16 Nov, 23 Nov, 30 Nov 2026 (Mondays)             |
+| Session time | 14:00 to 17:00. The room is booked for the full session. |
+| Room         | Yuxin Tower 1015 (Hengqin Campus)                        |
+| Groups       | 29 groups, 37 students                                   |
+| Slides due   | PDF, at least 24 hours before your slot                  |
+
+> **This schedule is tentative.** Start times are estimates. If a session runs ahead or behind, later slots shift with it. Plan to be available for the whole session, not only for your own slot.
 
 ---
 
@@ -16,10 +18,10 @@
 
 - **One group per slot.** A group of 1 student gets a **15-minute** slot. A group of 2 students gets a **20-minute** slot. Q\&A is inside the slot.
 - **The first group starts at 14:00 sharp.** There is no opening.
-- Start times below are **approximate**. If a session runs ahead, we move on immediately. Arrive at least 10 minutes before your slot and be ready to present early.
+- Arrive at least 10 minutes before your slot and be ready to present earlier than listed.
 - Order within each session is by **paper ID**, not by importance.
 - One 10-minute break per session, marked `BREAK` in the tables.
-- **All four sessions finish before 17:00.** Sessions end early when all groups are done.
+- The order is final. A swap is possible only if both groups agree and confirm with me before 9 Nov.
 
 ---
 
@@ -34,9 +36,8 @@
 | 14:55 | 80       | FutureX: An Advanced Live Benchmark for LLM Agents in Future Prediction                                 | 陸家詠, 邹坤锦  | 2    |
 | 15:15 | 87       | Physics-Guided Motion Loss for Video Generation Model                                                   | 梁子轩       | 1    |
 | 15:30 | 149      | Tversky Neural Networks: Psychologically Plausible Deep Learning with Differentiable Tversky Similarity | 周凡超, 尹艺洁  | 2    |
-| 15:50 | —        | *End*                                                                                                   | —         | —    |
 
-6 groups, 8 students. Ends about 15:50.
+6 groups, 8 students.
 
 ---
 
@@ -52,9 +53,8 @@
 | 15:15 | 145      | Stylos: Multi-View 3D Stylization with Single-Forward Gaussian Splatting                 | 谭亦轩       | 1    |
 | 15:30 | 160      | Learning to See Before Seeing: Demystifying LLM Visual Priors from Language Pre-training | 梁梓龍, 张煜祥  | 2    |
 | 15:50 | 167      | Comparing AI Agents to Cybersecurity Professionals in Real-World Penetration Testing     | 黄恩泽       | 1    |
-| 16:05 | —        | *End*                                                                                    | —         | —    |
 
-7 groups, 9 students. Ends about 16:05.
+7 groups, 9 students.
 
 ---
 
@@ -69,9 +69,8 @@
 | 15:00 | 62       | Dropping Just a Handful of Preferences Can Change Top Large Language Model Rankings | 浦梓熹, 杨帅   | 2    |
 | 15:20 | 84       | THEMIS: Towards Holistic Evaluation of MLLMs for Scientific Paper Fraud Forensics   | 王续        | 1    |
 | 15:35 | 126      | CyberGym: Evaluating AI Agents' Real-World Cybersecurity Capabilities at Scale      | 郭锦阳       | 1    |
-| 15:50 | —        | *End*                                                                               | —         | —    |
 
-6 groups, 8 students. Ends about 15:50.
+6 groups, 8 students.
 
 ---
 
@@ -90,9 +89,8 @@
 | 16:00 | 105      | SAM 3: Segment Anything with Concepts                                                       | 王沛阳       | 1    |
 | 16:15 | 135      | Do 3D Large Language Models Really Understand 3D Spatial Relationships?                     | 许艺馨       | 1    |
 | 16:30 | 136      | Efficient algorithms for Incremental Metric Bipartite Matching                              | 刘嘉豪, 温泽林  | 2    |
-| 16:50 | —        | *End*                                                                                       | —         | —    |
 
-10 groups, 12 students. Ends about 16:50.
+10 groups, 12 students.
 
 ---
 
@@ -109,10 +107,10 @@
 
 ## Summary
 
-| Date      | Groups | Students | First slot | Ends  |
-| --------- | ------ | -------- | ---------- | ----- |
-| 9 Nov     | 6      | 8        | 14:00      | 15:50 |
-| 16 Nov    | 7      | 9        | 14:00      | 16:05 |
-| 23 Nov    | 6      | 8        | 14:00      | 15:50 |
-| 30 Nov    | 10     | 12       | 14:00      | 16:50 |
-| **Total** | **29** | **37**   |            |       |
+| Date      | Groups | Students | First slot |
+| --------- | ------ | -------- | ---------- |
+| 9 Nov     | 6      | 8        | 14:00      |
+| 16 Nov    | 7      | 9        | 14:00      |
+| 23 Nov    | 6      | 8        | 14:00      |
+| 30 Nov    | 10     | 12       | 14:00      |
+| **Total** | **29** | **37**   |            |

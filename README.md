@@ -88,7 +88,7 @@
 | 15:45 | 91       | In-the-Flow Agentic System Optimization for Effective Planning and Tool Use                 | 黄艺馨       | 1    |
 | 16:00 | 105      | SAM 3: Segment Anything with Concepts                                                       | 王沛阳       | 1    |
 | 16:15 | 135      | Do 3D Large Language Models Really Understand 3D Spatial Relationships?                     | 许艺馨       | 1    |
-| 16:30 | 136      | Efficient algorithms for Incremental Metric Bipartite Matching                              | 刘嘉豪, 温泽林  | 2    |
+| 16:30 | 150      | Two-Way Is Better Than One: Bidirectional Alignment with Cycle Consistency for Exemplar-Free Class-Incremental Learning                       | 刘嘉豪, 温泽林  | 2    |
 
 10 groups, 12 students.
 

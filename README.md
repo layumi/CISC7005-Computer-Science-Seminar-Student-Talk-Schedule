@@ -69,6 +69,7 @@
 | 15:00 | 62       | Dropping Just a Handful of Preferences Can Change Top Large Language Model Rankings | 浦梓熹, 杨帅   | 2    |
 | 15:20 | 84       | THEMIS: Towards Holistic Evaluation of MLLMs for Scientific Paper Fraud Forensics   | 王续        | 1    |
 | 15:35 | ICLR'24      | Fast-DetectGPT: Efficient Zero-Shot Detection of Machine-Generated Text via Conditional Probability Curvature     | 郭锦阳       | 1    |
+| 16:00 | 68  | CoDA: Agentic Systems for Collaborative Data Visualization | 蔡俊杰 | 1 | 
 
 6 groups, 8 students.
 
